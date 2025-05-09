@@ -28,7 +28,7 @@ BingeBox is a full-stack movie streaming web application that allows users to br
 - MongoDB (Mongoose ODM)  
 - JWT for authentication  
 
----
+----
 
 ## 🚀 Getting Started
 
